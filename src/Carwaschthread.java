@@ -61,4 +61,6 @@ public class Carwaschthread extends Thread{
         System.out.println("---------------------------------------");
         System.out.println("Auto an der stelle " + index + " hat die Schlange verlassen");
     }
+
+    //änderung
 }
